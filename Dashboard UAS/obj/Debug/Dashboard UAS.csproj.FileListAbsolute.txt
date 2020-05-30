@@ -1,0 +1,80 @@
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.exe.config
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.exe
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.xml
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.xml
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.xml
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csprojAssemblyReference.cache
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Form1.resources
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Properties.Resources.resources
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csproj.GenerateResource.cache
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csproj.CoreCompileInputs.cache
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csproj.CopyComplete
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.exe
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.Design.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.Fonts.dll
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.pdb
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.xml
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Home.resources
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Keuangan.resources
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Pengiriman.resources
+D:\Semester 4\Pemvis\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Layanan.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.exe.config
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.exe
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Dashboard UAS.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Gu.Units.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csprojAssemblyReference.cache
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Home.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Form1.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Keuangan.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Layanan.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Pengiriman.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard_UAS.Properties.Resources.resources
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csproj.GenerateResource.cache
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.csproj.CopyComplete
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.exe
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\obj\Debug\Dashboard UAS.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Npgsql.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Buffers.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Memory.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Text.Json.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.ValueTuple.dll
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Npgsql.pdb
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\Npgsql.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Buffers.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Memory.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Text.Json.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fachriza\source\repos\Dashboard UAS\Dashboard UAS\Dashboard UAS\bin\Debug\System.ValueTuple.xml
